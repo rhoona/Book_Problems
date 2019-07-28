@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="Passing_struct_ref_to_functions_P_632_633.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
