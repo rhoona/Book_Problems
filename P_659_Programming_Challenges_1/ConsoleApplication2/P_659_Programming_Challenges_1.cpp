@@ -1,5 +1,6 @@
-// ConsoleApplication2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Write a program that uses a structure named MovieData to store information about a movie 
+//The program should create two MovieData variables, store values in their members
+// and pass each one, in turn to a function that displays the information
 
 #include <iostream>
 #include <string>
