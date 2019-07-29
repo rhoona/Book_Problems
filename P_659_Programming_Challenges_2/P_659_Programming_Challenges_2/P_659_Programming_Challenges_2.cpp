@@ -32,7 +32,7 @@ void showMovieData(MovieData* m) {
 	static int count = 1;
 	cout << "****** #" << count << " ******\n";
 	count++;
-	cout << fixed << showpoint << setprecision(2);
+	cout << fixed << showpoint << setprecision(3);
 	cout <<"Title: "<< m->Title <<'\n'<<"Director: "<< m->Director << '\n' <<"Year: "<< m->Year <<'\n' <<"Run Time: "<<m->RunTime <<" Minutes"<< '\n';
 
 	if (m->ProductionCost > m->FirstYearRevenue)
