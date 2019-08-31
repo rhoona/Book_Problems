@@ -4,7 +4,7 @@
 
 #include <iostream>
 using namespace std;
-
+int undeede_added_for_git_test
 struct Rectangle
 {
 	int width;
