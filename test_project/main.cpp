@@ -24,6 +24,7 @@ int main(int argc, char** argv) {
     //updatw2 check
     //umm doing it again
     cout<<"umm"<<endl;
+    cout"omg lol"<<endl;
     return 0;
 }
 
